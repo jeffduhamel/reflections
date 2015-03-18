@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository (git init) it sets up the directory as
+a new repository for version control.  You do this so you can add version
+control to the files in that directory.
+
