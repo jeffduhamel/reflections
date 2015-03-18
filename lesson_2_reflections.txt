@@ -1,5 +1,5 @@
-What happens when you initialize a repository? Why do you need to do it?
-When you initialize a repository (git init) it sets up the directory as
-a new repository for version control.  You do this so you can add version
-control to the files in that directory.
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When you initialize a repository (git init) it sets up the directory as a new repository for version control.  You do this so you can add version control to the files in that directory.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can limit to one commit per logical change by only adding the files pertaining to the logical change to the staging area and committing.
