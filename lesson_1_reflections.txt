@@ -1,0 +1,4 @@
+These are my thoughts from Git and GitHub lesson 1. 
+The first lesson is way too basic it assumes absolutely no knowledge of source control.
+Most of this content should be moved to a new course on source control basics and then
+this course could focus on how to use Git and GitHub.
